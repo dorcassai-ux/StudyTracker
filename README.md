@@ -50,4 +50,4 @@ Upload the changed files to the bucket, then create a CloudFront invalidation (e
 
 ## Documentation
 
-See [StudyTrack_S3_CloudFront_Documentation.docx](StudyTrack_S3_CloudFront_Documentation.docx) for the full step-by-step guide.
+See [StudyTrack_S3_CloudFront_Documentation.pdf](StudyTrack_S3_CloudFront_Documentation.pdf) for the full step-by-step guide.
