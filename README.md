@@ -2,7 +2,6 @@
 
 A student task tracker built with HTML, CSS and JavaScript, hosted on **Amazon S3** and delivered through **Amazon CloudFront**.
 
-**Live site:** https://d3uinhdz6kb4cg.cloudfront.net
 
 ![StudyTrack dashboard](screenshots/02-app-live.png)
 
